@@ -1,3 +1,4 @@
+![two-fer](https://user-images.githubusercontent.com/44240533/222983668-2a2944eb-6f77-41fd-ab69-1c07aba987c1.svg)
 # Two Fer
 
 Welcome to Two Fer on Exercism's Java Track.
